@@ -47,6 +47,8 @@ Upon launching the clothes picker you will be greeted with the following prompts
 
 Brought to you by Shirt&Pants.ai.
 
+I just updated this
+
 ---
 
 ## License
